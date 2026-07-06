@@ -151,15 +151,9 @@ The dashboard includes:
 
 # 📷 Dashboard Preview
 
-*Add screenshots of your dashboard here*
+<img width="1124" height="479" alt="Dashboard ss" src="https://github.com/user-attachments/assets/f94ddcdb-8f77-404c-b5f4-2bdcfb178270" />
 
-Example:
 
-```markdown
-![Dashboard Screenshot](dashboard.png)
-```
-
----
 
 # 💡 Key Learnings
 
